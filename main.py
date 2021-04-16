@@ -14,8 +14,8 @@ scopes = ["https://www.googleapis.com/auth/youtube.upload"]
 
 
 # FILL THESE OUT
-IG_USERNAME = "" 
-IG_PASSWORD = ""
+IG_USERNAME = "user" 
+IG_PASSWORD = "pass"
 
 INTRO_VID = '' # SET AS '' IF YOU DONT HAVE ONE
 OUTRO_VID = ''
